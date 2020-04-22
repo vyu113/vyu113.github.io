@@ -246,11 +246,19 @@ p.social a.facebook {
   background-color: #ccc;
 }
 
+p.social a.linkedin {
+  background-color: #ccc;
+}
+
 p.social a.gplus {
   background-color: #333;
 }
 
 p.social a.twitter {
+  background-color: #aaa;
+}
+
+p.social a.github {
   background-color: #aaa;
 }
 
