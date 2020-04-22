@@ -266,6 +266,10 @@ p.social a.instagram {
   background-color: #999;
 }
 
+p.social a.youtube {
+  background-color: #777;
+}
+
 p.social a.email {
   background-color: #666;
 }
